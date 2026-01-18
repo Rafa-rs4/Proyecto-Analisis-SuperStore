@@ -28,8 +28,8 @@ El reporte interactivo se divide en tres áreas clave:
 
 ## 📊 Visualización del Dashboard
 ![Segmentación](Downloads/Proyecto_SuperStore/captura_pantalla/Dashboard_AnalisisProductoRentabilidad.jpeg)
-![Logística](Downloads/Proyecto_SuperStore/assets/image_4316c5.png)
-![Rentabilidad](Downloads/Proyecto_SuperStore/assets/image_4316a2.png)
+![Logística](Downloads/Proyecto_SuperStore/captura_pantalla/Dashboard_LogisticaEficienciaOperativa.jpeg)
+![Rentabilidad](Downloads/Proyecto_SuperStore/captura_pantalla/Dashboard_SegmentacionYValorDelCliente.jpeg)
 
 ---
 **Desarrollado por:** Jorge Rafael Roncal Saravia
