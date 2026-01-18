@@ -31,7 +31,6 @@ El reporte interactivo se divide en tres áreas clave:
 ![Logística](Downloads/Proyecto_SuperStore/captura_pantalla/Dashboard_LogisticaEficienciaOperativa.jpeg)
 ![Rentabilidad](Downloads/Proyecto_SuperStore/captura_pantalla/Dashboard_SegmentacionYValorDelCliente.jpeg)
 
----
-**Desarrollado por:** Jorge Rafael Roncal Saravia
-**Propósito:** Portafolio para Prácticas Pre-profesionales.
+
+
 
